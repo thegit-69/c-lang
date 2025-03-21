@@ -8,3 +8,4 @@ in their respective folder
 These are **MISSING PROGRAMS(MP)**😞😢🥹
 - [ ] [MP-decsion making](https://github.com/thegit-69/c-lang/blob/6dbc0a44de8afbb7fe2073973670de364271a9b0/decsion%20making/missing%20programs.txt)
 - [ ] [MP-looping](https://github.com/thegit-69/c-lang/blob/a84a03eafcbfc13c24b0158047c726c1eff45124/loops/1MISSING%20LOOPS.txt)
+- [ ] [MP-arrays](https://keep.google.com/u/1/#LIST/1wqghl6bJWEbsk7sc83aoSRi5n39PHGFbCU_kpsRbtFFIskN74cv9HlgtjBrmNYA)
