@@ -15,4 +15,4 @@ void main()
 		printf("\nquotient=%f",quotient);
 	}
 }
-
+//by DASARATH.C
