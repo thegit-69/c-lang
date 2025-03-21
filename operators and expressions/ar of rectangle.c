@@ -9,3 +9,4 @@ void main()
 	scanf("%f",&b);
 	printf("area of rectangle = %.2f",l*b);
 }
+//by DASARATH.C
