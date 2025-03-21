@@ -1,4 +1,8 @@
-//swaping of 2 nos
+/**************************************
+ * Date: 	21-03-2025
+ * Program: 	swaping of 2 nos
+ * By Author: 	DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
