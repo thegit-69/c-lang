@@ -1,3 +1,7 @@
+/**************************************
+ * Program: 	grade
+ * By Author: 	DASARATH.C
+ **************************************/
 // A=10 B=9 C=8 D=7 F=0
 #include<stdio.h>
 void main()
