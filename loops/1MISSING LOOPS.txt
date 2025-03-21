@@ -1,5 +1,5 @@
 missing files for looping
-1.hollow diamond
+[x]1.hollow diamond
 2.pascal triangle
 3.zig zag
 4.spiral
