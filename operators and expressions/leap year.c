@@ -1,4 +1,8 @@
-//leap year
+/**************************************
+ * Date: 	21-03-2025
+ * Program: 	Leap year
+ * By Author: 	DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
