@@ -1,0 +1,6 @@
+missing files for looping
+1.hollow diamond
+2.pascal triangle
+3.zig zag
+4.spiral
+that it 4 programs are missing
