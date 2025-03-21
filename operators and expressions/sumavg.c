@@ -1,4 +1,8 @@
-//sum and avg of 4 nos
+/**************************************
+ * Date: 	21-03-2025
+ * Program: 	sum and avg of 4 nos
+ * By Author: 	DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
