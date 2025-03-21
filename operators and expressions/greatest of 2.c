@@ -1,3 +1,8 @@
+/**************************************
+ * Date: 	21-03-2025
+ * Program: 	greatest of 2 numbers
+ * By Author: 	DASARATH.C
+ **************************************/
 #include<stdio.h>
 int main()
 {
