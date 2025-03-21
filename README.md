@@ -6,7 +6,4 @@ There are of course some missing programs which i will update before **THE EXAM*
 in their respective folder  
 > [!CAUTION]
 These are **MISSING PROGRAMS(MP)**😞😢🥹
-- [ ] [MP-decsion making](https://github.com/thegit-69/c-lang/blob/6dbc0a44de8afbb7fe2073973670de364271a9b0/decsion%20making/missing%20programs.txt)
-- [ ] [MP-looping](https://github.com/thegit-69/c-lang/blob/a84a03eafcbfc13c24b0158047c726c1eff45124/loops/1MISSING%20LOOPS.txt)
-- [ ] [MP-arrays](https://github.com/thegit-69/c-lang/blob/37e3e638fcadeda96415277c60f0cbb7c4cf00c2/arrays/MP-ARRAYS.md)
-- [ ] [MP-functions](https://github.com/thegit-69/c-lang/blob/14772f9f950c087a702a1bde194d40836a802ccb/functions/MP-functions.md)
+- [ ] [MISSING QSNS](https://github.com/thegit-69/c-lang/blob/9f8ddb8c73f559535649077ea9c5fd5e97a1c8fa/MISSING%20QSNS.md)
