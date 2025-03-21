@@ -1,6 +1,6 @@
 /**************************************
- * Program: area of rectangle
- * Author: DASARATH.C
+ * Program: Area of rectangle
+ * BY Author: DASARATH.C
  **************************************/
 #include<stdio.h>
 void main()
