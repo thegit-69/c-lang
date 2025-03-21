@@ -1,3 +1,8 @@
+/**************************************
+ * Date: 	21-03-2025
+ * Program: 	Is given number odd or even.
+ * By Author: 	DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
