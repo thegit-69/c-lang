@@ -1,7 +1,0 @@
-1.takes age as input and tells child or teen or sr citizen
-2.hot warm cold
-3.upper or lower case
-4.multiple of 3 or 5
-
-TOTAL:8 programs in this section
-missing 4
