@@ -1,3 +1,8 @@
+/**************************************
+ * Date: 21-03-2025
+ * Program: Simple Calculator
+ * By Author: DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
@@ -15,4 +20,3 @@ void main()
 		printf("\nquotient=%f",quotient);
 	}
 }
-//by DASARATH.C
