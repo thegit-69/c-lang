@@ -1,4 +1,7 @@
-//area of rectangle
+/**************************************
+ * Program: area of rectangle
+ * Author: DASARATH.C
+ **************************************/
 #include<stdio.h>
 void main()
 {
@@ -9,4 +12,3 @@ void main()
 	scanf("%f",&b);
 	printf("area of rectangle = %.2f",l*b);
 }
-//by DASARATH.C
