@@ -1,1 +1,0 @@
-1.takes age as input and tells child or teen or sr citizen
