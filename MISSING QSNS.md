@@ -56,10 +56,6 @@ proper titles and folders.
 # ***MISSING qsns***  in strings
 - [ ] more than 15 qsn see portal
 
-# ***MISSING qsns***  in strucures
-- [x] everything is done but in portal 
-everything is same so i'm uploading 2 types 1st is single,2nd is n structure variables.
-
 # ***did't even attempt***
 - [ ] pointers
 - [ ] pointers and functions
