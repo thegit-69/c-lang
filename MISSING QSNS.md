@@ -6,12 +6,13 @@ but my frnds were having confusion what is what program so i now labeled each of
 proper titles and folders.
 
 # ***MISSING qsns*** of desicion making 
-- [ ] 1.takes age as input and tells child or teen or sr citizen
-- [ ] 2.hot warm cold
-- [ ] 3.upper or lower case
-- [ ] 4.multiple of 3 or 5
+- [x] 1.takes age as input and tells child or teen or sr citizen
+- [x] 2.hot warm cold
+- [x] 3.upper or lower case
+- [x] 4.multiple of 3 or 5
 
-- TOTAL:8 programs in this section missing 4
+- TOTAL:8 programs are present in this section.
+
 
 # ***MISSING qsns*** of looping
 - [ ] 1.hollow diamond
