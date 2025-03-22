@@ -33,6 +33,13 @@ proper titles and folders.
 
 # ***MISSING qsns***  in arrays applications
 - [ ] max programs are in simats portal lets see it tomorrow
+- [ ] Insert in sorted
+- [ ] Remove duplicate
+- [ ] palindrome
+- [ ] common elements in an array
+- [ ] Rank
+- [ ] Gauss jordan
+
 
 # ***MISSING qsns*** in functions
 - [ ] factorial using recursive function
