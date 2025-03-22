@@ -42,8 +42,8 @@ proper titles and folders.
 
 
 # ***MISSING qsns*** in functions
-- [ ] factorial using recursive function
-- [ ] sum of array using function
+- [x] factorial using recursive function
+- [x] sum of array using function
 - [ ] min of array 
 - [ ] palindrome
 - [ ] random
